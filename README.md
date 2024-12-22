@@ -1,2 +1,2 @@
 # TechBytes
-Project on campus hacks
+Sorry for less commits we accedently delted the git file from main folder
